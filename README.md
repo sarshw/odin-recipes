@@ -1,0 +1,1 @@
+This project is to create a simple recipe website. It will consist of a homepage with links to a few recipes in order for me to practice basic HTML skills.
