@@ -1,0 +1,51 @@
+img{
+    width: 300px;
+    height: auto;
+}
+
+* {
+    font-family: 'Inter', sans-serif;
+    color: #16172E;
+    
+}
+
+h1,h2,h3 {
+    font-family: 'Italiana', serif;
+}
+header {
+    padding: 30px 300px;
+    line-height: 0.8;
+}
+h1 {
+    font-size: 60px;
+    color: #EBCF8C;
+}
+header p{
+    font-style: italic;
+}
+
+.column {
+    display: flex;
+    padding: 30px 300px;
+    gap: 50px;
+    background-color: #B0D1B3;
+}
+
+div {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    line-height: 1.5;
+    font-size: 16px;
+}
+section{
+    padding: 30px 300px;
+    line-height: 1.5
+}
+
+.steps{
+    background-color: #EBCF8C;
+}
+.steps h2, .steps li {
+    line-height: 1.5;
+}
