@@ -1,6 +1,7 @@
 img{
-    width: 300px;
-    height: auto;
+    width: 370px;
+    height: 450px;
+    object-fit: cover;
 }
 
 * {
@@ -22,6 +23,7 @@ h1 {
 }
 header p{
     font-style: italic;
+    font-size: 18px;
 }
 
 .column {
@@ -30,21 +32,28 @@ header p{
     gap: 50px;
     background-color: #D9D3E4;
 }
+
 div {
-    width: 400px;
+    width: 500px;
     display: flex;
     align-items: center;
     line-height: 1.5;
-    font-size: 16px;
+    font-size: 18px;
 }
+
 section{
     padding: 30px 300px;
     line-height: 1.5
 }
 
+li{
+    font-size: 18px;
+}
+
 .steps{
     background-color: #f97760;
 }
+
 .steps h2, .steps li {
     color: white;
     line-height: 1.5;

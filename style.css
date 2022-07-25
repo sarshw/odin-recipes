@@ -6,20 +6,21 @@ h1 {
 
 p{
     font-family: 'Italiana', serif;
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
 }
 
 .row {
     display: flex;
-    margin-left: 20px;
-    margin-right: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .column {
     flex: 33.33%;
-    padding: 30px;
+    padding: 50px;
 }
-div img{
+div img {
     height: 500px;
+    object-fit: cover;
 }
